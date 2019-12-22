@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89861dc9-3dd2-4756-824b-bdaeb9cd9743" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="89861dc9-3dd2-4756-824b-bdaeb9cd9743" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tekrar/Lecture1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +19,44 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U0WIZ6Qwbud0GEgTIiWC6n39SJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyProjects" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.siniflar">
+  <component name="RunManager" selected="Python.Lecture1">
+    <configuration name="Lecture1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hspy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tekrar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tekrar/Lecture1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="donguler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hspy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,12 +101,23 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture1" />
         <item itemvalue="Python.siniflar" />
         <item itemvalue="Python.donguler" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
     <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -97,5 +132,27 @@
       <updated>1574493913764</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1136" height="176" key="GridCell.Tab.0.bottom" timestamp="1577023057167">
+      <screen x="124" y="0" width="1796" height="1200" />
+    </state>
+    <state width="1136" height="176" key="GridCell.Tab.0.bottom/124.0.1156.720@124.0.1156.720" timestamp="1576969920423" />
+    <state width="1136" height="176" key="GridCell.Tab.0.bottom/124.0.1796.1200@124.0.1796.1200" timestamp="1577023057167" />
+    <state width="1136" height="176" key="GridCell.Tab.0.center" timestamp="1577023057167">
+      <screen x="124" y="0" width="1796" height="1200" />
+    </state>
+    <state width="1136" height="176" key="GridCell.Tab.0.center/124.0.1156.720@124.0.1156.720" timestamp="1576969920423" />
+    <state width="1136" height="176" key="GridCell.Tab.0.center/124.0.1796.1200@124.0.1796.1200" timestamp="1577023057167" />
+    <state width="1136" height="176" key="GridCell.Tab.0.left" timestamp="1577023057167">
+      <screen x="124" y="0" width="1796" height="1200" />
+    </state>
+    <state width="1136" height="176" key="GridCell.Tab.0.left/124.0.1156.720@124.0.1156.720" timestamp="1576969920423" />
+    <state width="1136" height="176" key="GridCell.Tab.0.left/124.0.1796.1200@124.0.1796.1200" timestamp="1577023057167" />
+    <state width="1136" height="176" key="GridCell.Tab.0.right" timestamp="1577023057167">
+      <screen x="124" y="0" width="1796" height="1200" />
+    </state>
+    <state width="1136" height="176" key="GridCell.Tab.0.right/124.0.1156.720@124.0.1156.720" timestamp="1576969920423" />
+    <state width="1136" height="176" key="GridCell.Tab.0.right/124.0.1796.1200@124.0.1796.1200" timestamp="1577023057167" />
   </component>
 </project>
