@@ -53,4 +53,17 @@ Set(Küme) Tipleri:	set, frozenset
 Boolean(1,0) tipi:	bool
 Binary Tipleri:	bytes, bytearray, memoryview 
 ```
+* Python'da veri tipini bizim belirtmemize gerek yok ama gene de onun bir veri tipi belirlenir Python yorumlayıcısı tarafından(Interpreter)
+* Veri tipi değer atama yani `x = 5` sırasında int olarak belirlenir. Ancak bu degiskenin tipini biz de `str` yani yazı tipi olarak belirleyebiliriz. 
+`x = str(20)`
+* Verinin tipini `type(a)` gibi öğrenebiliriz. Buradaki a herhangi bir değişkendir.
+* Sayılarla ilgili bir örnek:
+```
+x = 20
+y = 1.2
+z = x + y
+print(z)
+```
+Yukarıdaki örnek int ve float yani bir tam sayı ve bir küsürlü sayının toplamının float olduğunu gösterir. z değeri 21.2 olduğundan `float` olarak veri tipi belirlenmiştir. İsterseniz ````print(type(z))```` ile veri tipinin `float` olduğundan emin olabilirsiniz.
+
 

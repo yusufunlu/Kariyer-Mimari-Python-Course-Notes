@@ -8,3 +8,4 @@ Skor kagıdında düzen şöyledir.
 2 3 6 6 5
 ```
 Bu durumda skorlistesi = [2, 3, 6, 6, 5] ve 2. nin skoru da 5 demektir.
+Bu girilen skor listesinde 2. yi bulmanızı istiyoruz.
