@@ -66,4 +66,19 @@ print(z)
 ```
 Yukarıdaki örnek int ve float yani bir tam sayı ve bir küsürlü sayının toplamının float olduğunu gösterir. z değeri 21.2 olduğundan `float` olarak veri tipi belirlenmiştir. İsterseniz ````print(type(z))```` ile veri tipinin `float` olduğundan emin olabilirsiniz.
 
+## Class(Sınıf) ve Objeler
+* Sınıflar içerisinde farklı veri tiplerinde değişkenler barındırabilir, fonksionlar barındırabilir, başka sınıfları da barındırabilir
+* Insan'ı bir sınıf olarak tanımlarsak içerisinde kendine has özellikler bulunabilir. Mesela boy diye int değişkeni olabilir veya koş diye bir fonksiyonu olabilir. Farklı insanların boyu farklı olabilir veya farklı hızda koşabilir
+* Eğer bir kere insan sınıfını hazırlarsak daha sonra yeni bir insan doğduğunda bu sınıf insan sınıfından yeni bir nesne oluştururuz. Dünyada 7 milyar insan var ise 7 miilyar kere bu insan sınıfından veri yani nesne üretip bilgisayara vereceğiz. Temel olarak insanı tanımladığımız class(sınıf) ölçüsünde temel özellikleri ile elimizde bir obje olacaktır. Eğer değişkenlerin tipleri int, str veya list gibi ise objelerin de tipleri class(sınıf) lardır. Yani bu tipler objenin veya nesnenin nasıl bir veri olduğunu anlatır
+``class Insan:
+  def __init__(self, isim, yas):
+    self.isim = isim
+    self.yas = yas
+
+  def adimiSoyle(self):
+    print("Benim adım " + self.name)
+
+   p1 = Insan("Yusuf", 32)
+   p1.adimiSoyle()``
+
 
