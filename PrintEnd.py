@@ -1,0 +1,5 @@
+print("1 Tek satır yazıp bitirir")
+print("2 bu arkasında baska cumle gelecek",end="3")
+print("4 iste geldim",end="5")
+print("\t\t")
+print("6 iste geldim",end="7")
