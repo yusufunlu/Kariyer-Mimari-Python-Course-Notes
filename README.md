@@ -80,5 +80,10 @@ Yukarıdaki örnek int ve float yani bir tam sayı ve bir küsürlü sayının t
 
    p1 = Insan("Yusuf", 32)
    p1.adimiSoyle()```
+* ilk olarak Insan diye bir class tanımladık daha sonra bu class'den bir değişken yarattık
+* Nasıl ki x = 20 yazınca bir değişken yaratıyorsak ve bu sırada Python bizim yerimize bu int tipidir diyorsa
+```p1 = Insan("Yusuf", 32)``` ile bir değişken yaratırız yalnızca burada tipini Insan class'ı olduğunu biz söyleriz.
+```def __init__(self, isim, yas):``` her class tanımı yapılırken bir kere yapılır bu bir fonksiyondur ve class'dan bir değişken üretilirken ilk yüklemeleri yapar
+   
 
 
